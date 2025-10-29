@@ -1,0 +1,5 @@
+# Create a ship with only second bay containing 2 torpedos
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
